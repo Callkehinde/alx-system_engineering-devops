@@ -1,1 +1,1 @@
-Today i'm coding
+Display current directory contents in a long formant
