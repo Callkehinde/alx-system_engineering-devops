@@ -1,1 +1,1 @@
- lines containing the pattern “root” and 3 lines after them in the file
+all the lines in the file
