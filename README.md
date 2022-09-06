@@ -1,1 +1,1 @@
-This is my shell
+a script that deletes all the regular files
