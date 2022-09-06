@@ -1,1 +1,5 @@
- the last 10 lines of /etc/passwd
+the first 10 lines of /etc/passwd
+
+
+
+
