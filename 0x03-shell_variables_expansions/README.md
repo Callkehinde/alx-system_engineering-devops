@@ -1,1 +1,1 @@
-Add /action to the PATH
+a script that lists environment variables
