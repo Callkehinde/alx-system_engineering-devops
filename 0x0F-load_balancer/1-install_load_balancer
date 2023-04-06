@@ -15,7 +15,7 @@ frontend  http-in
         mode http
         default_backend webservers
 
-backend webservers																mode http
+backend webservers	mode http
         balance roundrobin
         server 112428-web-01 54.160.94.102:80 check
         server 112428-web-02 54.197.78.250:80 check
